@@ -7,15 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>http://www.wty.center/ko/</link>
+    <link>http://example.org/ko/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
     <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="http://www.wty.center/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/ko/index.xml" rel="self" type="application/rss+xml" />
     
       
       

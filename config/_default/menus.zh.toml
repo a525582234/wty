@@ -1,6 +1,6 @@
 [[main]]
   identifier = "about"
-  name = "关于我"
+  name = "关于"
   url = "about"
   weight = 1
 
@@ -12,7 +12,7 @@
 
 [[main]]
   identifier = "presentation"
-  name = "介绍"
+  name = "推荐"
   url = "presentation"
   weight = 3
 
@@ -46,6 +46,6 @@
 
 [[main]]
   identifier = "publication"
-  name = "出版"
+  name = "出版物"
   url = "publication"
   weight = 7

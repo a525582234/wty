@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Galleries on Hugo Zzo Theme</title>
-    <link>http://www.wty.center/zh/gallery/</link>
-    <description>Recent content in Galleries on Hugo Zzo Theme</description>
+    <title>Galleries on WTY&#39;s Blog</title>
+    <link>http://example.org/zh/gallery/</link>
+    <description>Recent content in Galleries on WTY&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
@@ -16,21 +16,21 @@
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="http://www.wty.center/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Cartoon</title>
-        <link>http://www.wty.center/zh/gallery/cartoon/</link>
+        <link>http://example.org/zh/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>http://www.wty.center/zh/gallery/cartoon/</guid>
+        <guid>http://example.org/zh/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://www.wty.centerimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://example.orgimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -40,15 +40,15 @@
       
       <item>
         <title>Photo</title>
-        <link>http://www.wty.center/zh/gallery/photo/</link>
+        <link>http://example.org/zh/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>http://www.wty.center/zh/gallery/photo/</guid>
+        <guid>http://example.org/zh/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://www.wty.centerimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://example.orgimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -18,13 +18,4 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <!--more-->
 ---
 
-<br>
-
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
 

@@ -6,8 +6,15 @@
   contentdir = "content/en"
 
 [zh]
+title = "WTY's Blog"
+languageName = "中文"
+weight = 1
+languagedir = "ltr"
+contentdir = "content/zh"
+
+[ko]
   title = "Hugo Zzo Theme"
-  languageName = "中文"
+  languageName = "한국어"
   weight = 2
   languagedir = "ltr"
-  contentdir = "content/zh"
+  contentdir = "content/ko"

@@ -2,74 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.wty.center/ko/zh/</loc>
-  </url><url>
-    <loc>http://www.wty.center/ko/categories/</loc>
+    <loc>http://example.org/ko/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wty.center/en/categories/"
+                href="http://example.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.wty.center/zh/categories/"
+                href="http://example.org/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://www.wty.center/ko/categories/"
+                href="http://example.org/ko/"
                 />
   </url><url>
-    <loc>http://www.wty.center/ko/</loc>
+    <loc>http://example.org/ko/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wty.center/en/"
+                href="http://example.org/en/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.wty.center/zh/"
+                href="http://example.org/zh/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://www.wty.center/ko/"
+                href="http://example.org/ko/archive/"
                 />
   </url><url>
-    <loc>http://www.wty.center/ko/series/</loc>
+    <loc>http://example.org/ko/about/</loc>
+    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wty.center/en/series/"
+                href="http://example.org/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.wty.center/zh/series/"
+                href="http://example.org/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://www.wty.center/ko/series/"
+                href="http://example.org/ko/about/"
                 />
   </url><url>
-    <loc>http://www.wty.center/ko/tags/</loc>
+    <loc>http://example.org/ko/gallery/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wty.center/en/tags/"
+                href="http://example.org/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.wty.center/zh/tags/"
+                href="http://example.org/zh/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://www.wty.center/ko/tags/"
+                href="http://example.org/ko/gallery/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/gallery/photo/</loc>
+    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/gallery/photo/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/gallery/cartoon/</loc>
+    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/gallery/cartoon/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/categories/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/tags/index/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/posts/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/series/"
+                />
+  </url><url>
+    <loc>http://example.org/ko/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/tags/"
                 />
   </url>
 </urlset>
