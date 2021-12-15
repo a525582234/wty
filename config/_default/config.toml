@@ -1,5 +1,5 @@
 baseURL = "http://www.wty.center"
-title = "Hugo Zzo Theme"
+title = "WTY's Blog"
 theme = "zzo"
 
 defaultContentLanguage = "zh"
