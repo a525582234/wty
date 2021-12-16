@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "WTY's Blog"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wide" # widest, wider, wide, normal, narrow0
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -25,15 +25,15 @@ enableAppbarLangIcon = false
 
 # header
 homeHeaderType = "empty" # text, img, slide, typewriter
-hideHomeHeaderWhenMobile = false
+hideHomeHeaderWhenMobile = true
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+showMobileMenuTerms = ["posts", "Galleries", "tags", "categories", "series"]
 
 # search
 enableSearch = true
 enableSearchHighlight = true
-searchResultPosition = "main" # side, main
+searchResultPosition = "side" # side, main
 searchContent = true # include content to search index
 searchDistance = 100 # fuse option
 searchThreshold = 0.4 # 0.0: exact match, 1.0: any match
@@ -62,12 +62,11 @@ typeIcon = "🎯"
 # 名片
 myname = "walter wu"
 email = "wty525582234@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
+whoami = "记录生活，分享生活！！"
+bioImageUrl = "/images/whoami/avatar.jpg"
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "HaiNan, HaiKou"
+organization = "wty"
 
 # sidebar
 enableBio = true
@@ -79,26 +78,26 @@ enableSidebarCategories = true
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
 enableToc = true
-hideToc = false
+hideToc = true
 tocFolding = true
 tocPosition = "inner" # inner, outer
 enableTocSwitch = true
 itemsPerCategory = 5
-sidebarPosition = "right"
+sidebarPosition = "left"
 tocLevels = ["h2", "h3", "h4"]
-enableSidebarPostsByOrder = false
+enableSidebarPostsByOrder = true
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service
 googleTagManager = "" # GTM-XXXXXX
 baiduAnalytics = ""
-enableBusuanzi = false
+enableBusuanzi = true
 busuanziSiteUV = true
 busuanziSitePV = true
 busuanziPagePV = true
@@ -106,7 +105,7 @@ busuanziPagePV = true
 # rss
 updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
-fullContents = false
+fullContents = true
 
 # comment
 enableComment = true
@@ -114,7 +113,7 @@ disqus_shortname = ""
 commento = false
 
 [telegram]
-  enable = false
+  enable = true
   siteId = ""
   dataLimit = 5
 
@@ -139,13 +138,13 @@ commento = false
 # more info please open https://valine.js.org
 [valine]
   enable = true
-  appId = '你的appId'
-  appKey = '你的appKey'
+  appId = 'o4S6WshI5befzq2riCKVqf6x-gzGzoHsz'
+  appKey = '7jzo4nxiOP1KkCvPXSop3qbL'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
-  avatar = 'mm' 
+  avatar = 'images/logo.png'
   placeholder = '说点什么吧...'
-  visitor = false
+  visitor = true
 
 [changyan]
   changyanAppid = ""        # Changyan app id             # 畅言
@@ -163,8 +162,8 @@ commento = false
 [socialOptions]
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
+  facebook = ""
+  twitter = "https://twitter.com/wutingyu96"
   github = "https://github.com/a525582234/wty.github.io"
   stack-overflow = ""
   instagram = ""
@@ -193,7 +192,7 @@ commento = false
   google-scholar = ""
 
 [donationOptions]
-  enable = false
+  enable = true
   alipay = "" 
   wechat = ""
   paypal = ""
@@ -201,7 +200,7 @@ commento = false
 
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
 [[share]]
-  name = "facebook"
+  name = ""
   username = ""
 [[share]]
   name = "twitter"

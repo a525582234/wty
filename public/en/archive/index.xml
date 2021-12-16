@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Hugo Zzo Theme</title>
-    <link>http://example.org/en/archive/</link>
+    <link>http://www.wty.center/en/archive/</link>
     <description>Recent content in Archive on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>wty525582234@gmail.com (walter wu)</managingEditor>
+    <webMaster>wty525582234@gmail.com (walter wu)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/en/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.wty.center/en/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       
