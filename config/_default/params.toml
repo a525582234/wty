@@ -59,9 +59,9 @@ tagIcon = "🏷️"
 publicationIcon = "📚"
 typeIcon = "🎯"
 
-# whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
+# 名片
+myname = "walter wu"
+email = "wty525582234@gmail.com"
 whoami = "Web Developer"
 bioImageUrl = ""
 useGravatar = false
@@ -134,11 +134,11 @@ commento = false
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
 
-# Valine.
+# Valine.评论系统
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 [valine]
-  enable = false
+  enable = true
   appId = '你的appId'
   appKey = '你的appKey'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
@@ -165,7 +165,7 @@ commento = false
   phone = ""
   facebook = "http://example.org/"
   twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  github = "https://github.com/a525582234/wty.github.io"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
