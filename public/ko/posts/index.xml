@@ -7,15 +7,15 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/posts/</link>
+    <link>http://www.wty.center/ko/posts/</link>
     <description>Recent content in Posts on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>wty525582234@gmail.com (walter wu)</managingEditor>
+    <webMaster>wty525582234@gmail.com (walter wu)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/ko/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.wty.center/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       

@@ -2,851 +2,851 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/zh/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>http://www.wty.center/zh/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/showcase/hugo/hugo-theme-zzo/"
+                href="http://www.wty.center/en/showcase/hugo/hugo-theme-zzo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/showcase/hugo/hugo-theme-zzo/"
+                href="http://www.wty.center/zh/showcase/hugo/hugo-theme-zzo/"
                 />
   </url><url>
-    <loc>http://example.org/zh/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>http://www.wty.center/zh/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/showcase/hugo/hugo-theme-zdoc/"
+                href="http://www.wty.center/en/showcase/hugo/hugo-theme-zdoc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/showcase/hugo/hugo-theme-zdoc/"
+                href="http://www.wty.center/zh/showcase/hugo/hugo-theme-zdoc/"
                 />
   </url><url>
-    <loc>http://example.org/zh/</loc>
+    <loc>http://www.wty.center/zh/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="http://www.wty.center/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="http://www.wty.center/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="http://www.wty.center/zh/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/article/</loc>
+    <loc>http://www.wty.center/zh/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/article/"
+                href="http://www.wty.center/en/publication/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/article/"
+                href="http://www.wty.center/zh/publication/article/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/book/</loc>
+    <loc>http://www.wty.center/zh/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/book/"
+                href="http://www.wty.center/en/publication/book/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/book/"
+                href="http://www.wty.center/zh/publication/book/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/misc/</loc>
+    <loc>http://www.wty.center/zh/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/misc/"
+                href="http://www.wty.center/en/publication/misc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/misc/"
+                href="http://www.wty.center/zh/publication/misc/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/</loc>
+    <loc>http://www.wty.center/zh/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/"
+                href="http://www.wty.center/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/"
+                href="http://www.wty.center/zh/publication/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/</loc>
+    <loc>http://www.wty.center/zh/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="http://www.wty.center/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
+                href="http://www.wty.center/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/"
+                href="http://www.wty.center/zh/posts/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/shortcode/</loc>
+    <loc>http://www.wty.center/zh/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/shortcode/"
+                href="http://www.wty.center/en/tags/shortcode/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/shortcode/"
+                href="http://www.wty.center/zh/tags/shortcode/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/shortcodes/</loc>
+    <loc>http://www.wty.center/zh/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/shortcodes/"
+                href="http://www.wty.center/en/posts/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/shortcodes/"
+                href="http://www.wty.center/zh/posts/shortcodes/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/</loc>
+    <loc>http://www.wty.center/zh/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="http://www.wty.center/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="http://www.wty.center/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="http://www.wty.center/zh/tags/"
                 />
   </url><url>
-    <loc>http://example.org/zh/showcase/hugo/</loc>
+    <loc>http://www.wty.center/zh/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/showcase/hugo/"
+                href="http://www.wty.center/en/showcase/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/showcase/hugo/"
+                href="http://www.wty.center/zh/showcase/hugo/"
                 />
   </url><url>
-    <loc>http://example.org/zh/showcase/</loc>
+    <loc>http://www.wty.center/zh/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/showcase/"
+                href="http://www.wty.center/en/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/showcase/"
+                href="http://www.wty.center/zh/showcase/"
                 />
   </url><url>
-    <loc>http://example.org/zh/categories/</loc>
+    <loc>http://www.wty.center/zh/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="http://www.wty.center/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="http://www.wty.center/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="http://www.wty.center/zh/categories/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/css/</loc>
+    <loc>http://www.wty.center/zh/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/css/"
+                href="http://www.wty.center/en/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/css/"
+                href="http://www.wty.center/zh/tags/css/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/html/</loc>
+    <loc>http://www.wty.center/zh/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/html/"
+                href="http://www.wty.center/en/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/html/"
+                href="http://www.wty.center/zh/tags/html/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/markdown/</loc>
+    <loc>http://www.wty.center/zh/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/markdown/"
+                href="http://www.wty.center/en/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/markdown/"
+                href="http://www.wty.center/zh/tags/markdown/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/markdown-syntax/</loc>
+    <loc>http://www.wty.center/zh/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/markdown-syntax/"
+                href="http://www.wty.center/en/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/markdown-syntax/"
+                href="http://www.wty.center/zh/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://example.org/zh/series/</loc>
+    <loc>http://www.wty.center/zh/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="http://www.wty.center/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="http://www.wty.center/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/series/"
+                href="http://www.wty.center/zh/series/"
                 />
   </url><url>
-    <loc>http://example.org/zh/categories/syntax/</loc>
+    <loc>http://www.wty.center/zh/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/syntax/"
+                href="http://www.wty.center/en/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/syntax/"
+                href="http://www.wty.center/zh/categories/syntax/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/themes/</loc>
+    <loc>http://www.wty.center/zh/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/themes/"
+                href="http://www.wty.center/en/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/themes/"
+                href="http://www.wty.center/zh/tags/themes/"
                 />
   </url><url>
-    <loc>http://example.org/zh/categories/themes/</loc>
+    <loc>http://www.wty.center/zh/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/themes/"
+                href="http://www.wty.center/en/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/themes/"
+                href="http://www.wty.center/zh/categories/themes/"
                 />
   </url><url>
-    <loc>http://example.org/zh/series/themes-guide/</loc>
+    <loc>http://www.wty.center/zh/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/themes-guide/"
+                href="http://www.wty.center/en/series/themes-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/series/themes-guide/"
+                href="http://www.wty.center/zh/series/themes-guide/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/privacy/</loc>
+    <loc>http://www.wty.center/zh/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/privacy/"
+                href="http://www.wty.center/en/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/privacy/"
+                href="http://www.wty.center/zh/tags/privacy/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/rich-content/</loc>
+    <loc>http://www.wty.center/zh/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/rich-content/"
+                href="http://www.wty.center/en/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/rich-content/"
+                href="http://www.wty.center/zh/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/shortcodes/</loc>
+    <loc>http://www.wty.center/zh/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/shortcodes/"
+                href="http://www.wty.center/en/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/shortcodes/"
+                href="http://www.wty.center/zh/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/hugo/</loc>
+    <loc>http://www.wty.center/zh/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/hugo/"
+                href="http://www.wty.center/en/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/hugo/"
+                href="http://www.wty.center/zh/tags/hugo/"
                 />
   </url><url>
-    <loc>http://example.org/zh/categories/hugo/</loc>
+    <loc>http://www.wty.center/zh/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/hugo/"
+                href="http://www.wty.center/en/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/hugo/"
+                href="http://www.wty.center/zh/categories/hugo/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/syntax-highlight/</loc>
+    <loc>http://www.wty.center/zh/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/syntax-highlight/"
+                href="http://www.wty.center/en/posts/syntax-highlight/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/syntax-highlight/"
+                href="http://www.wty.center/zh/posts/syntax-highlight/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/math-typesetting/</loc>
+    <loc>http://www.wty.center/zh/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/math-typesetting/"
+                href="http://www.wty.center/en/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/math-typesetting/"
+                href="http://www.wty.center/zh/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/amoji/</loc>
+    <loc>http://www.wty.center/zh/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/amoji/"
+                href="http://www.wty.center/en/tags/amoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/amoji/"
+                href="http://www.wty.center/zh/tags/amoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/bamoji/</loc>
+    <loc>http://www.wty.center/zh/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/bamoji/"
+                href="http://www.wty.center/en/tags/bamoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/bamoji/"
+                href="http://www.wty.center/zh/tags/bamoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/emoji/</loc>
+    <loc>http://www.wty.center/zh/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/emoji/"
+                href="http://www.wty.center/en/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/emoji/"
+                href="http://www.wty.center/zh/tags/emoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/emoji-support/</loc>
+    <loc>http://www.wty.center/zh/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/emoji-support/"
+                href="http://www.wty.center/en/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/emoji-support/"
+                href="http://www.wty.center/zh/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/gamoji/</loc>
+    <loc>http://www.wty.center/zh/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/gamoji/"
+                href="http://www.wty.center/en/tags/gamoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/gamoji/"
+                href="http://www.wty.center/zh/tags/gamoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/namoji/</loc>
+    <loc>http://www.wty.center/zh/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/namoji/"
+                href="http://www.wty.center/en/tags/namoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/namoji/"
+                href="http://www.wty.center/zh/tags/namoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh/categories/diagram/</loc>
+    <loc>http://www.wty.center/zh/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/diagram/"
+                href="http://www.wty.center/en/categories/diagram/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/diagram/"
+                href="http://www.wty.center/zh/categories/diagram/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-viz/</loc>
+    <loc>http://www.wty.center/zh/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-viz/"
+                href="http://www.wty.center/en/posts/test-viz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-viz/"
+                href="http://www.wty.center/zh/posts/test-viz/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-wavedrom/</loc>
+    <loc>http://www.wty.center/zh/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-wavedrom/"
+                href="http://www.wty.center/en/posts/test-wavedrom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-wavedrom/"
+                href="http://www.wty.center/zh/posts/test-wavedrom/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-chartjs/</loc>
+    <loc>http://www.wty.center/zh/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-chartjs/"
+                href="http://www.wty.center/en/posts/test-chartjs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-chartjs/"
+                href="http://www.wty.center/zh/posts/test-chartjs/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-js-sequence-diagrams/</loc>
+    <loc>http://www.wty.center/zh/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-js-sequence-diagrams/"
+                href="http://www.wty.center/en/posts/test-js-sequence-diagrams/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-js-sequence-diagrams/"
+                href="http://www.wty.center/zh/posts/test-js-sequence-diagrams/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/diagram/</loc>
+    <loc>http://www.wty.center/zh/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/diagram/"
+                href="http://www.wty.center/en/tags/diagram/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/diagram/"
+                href="http://www.wty.center/zh/tags/diagram/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-mermaid/</loc>
+    <loc>http://www.wty.center/zh/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-mermaid/"
+                href="http://www.wty.center/en/posts/test-mermaid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-mermaid/"
+                href="http://www.wty.center/zh/posts/test-mermaid/"
                 />
   </url><url>
-    <loc>http://example.org/zh/categories/math/</loc>
+    <loc>http://www.wty.center/zh/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/math/"
+                href="http://www.wty.center/en/categories/math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/math/"
+                href="http://www.wty.center/zh/categories/math/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-mathjax/</loc>
+    <loc>http://www.wty.center/zh/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-mathjax/"
+                href="http://www.wty.center/en/posts/test-mathjax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-mathjax/"
+                href="http://www.wty.center/zh/posts/test-mathjax/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-katex/</loc>
+    <loc>http://www.wty.center/zh/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-katex/"
+                href="http://www.wty.center/en/posts/test-katex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-katex/"
+                href="http://www.wty.center/zh/posts/test-katex/"
                 />
   </url><url>
-    <loc>http://example.org/zh/posts/test-flowchart/</loc>
+    <loc>http://www.wty.center/zh/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/test-flowchart/"
+                href="http://www.wty.center/en/posts/test-flowchart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/posts/test-flowchart/"
+                href="http://www.wty.center/zh/posts/test-flowchart/"
                 />
   </url><url>
-    <loc>http://example.org/zh/gallery/cartoon/</loc>
+    <loc>http://www.wty.center/zh/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/cartoon/"
+                href="http://www.wty.center/en/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/cartoon/"
+                href="http://www.wty.center/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/gallery/cartoon/"
+                href="http://www.wty.center/zh/gallery/cartoon/"
                 />
   </url><url>
-    <loc>http://example.org/zh/gallery/</loc>
+    <loc>http://www.wty.center/zh/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/"
+                href="http://www.wty.center/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/"
+                href="http://www.wty.center/ko/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/gallery/"
+                href="http://www.wty.center/zh/gallery/"
                 />
   </url><url>
-    <loc>http://example.org/zh/gallery/photo/</loc>
+    <loc>http://www.wty.center/zh/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/photo/"
+                href="http://www.wty.center/en/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/photo/"
+                href="http://www.wty.center/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/gallery/photo/"
+                href="http://www.wty.center/zh/gallery/photo/"
                 />
   </url><url>
-    <loc>http://example.org/zh/presentation/dir/fourth/</loc>
+    <loc>http://www.wty.center/zh/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/presentation/dir/fourth/"
+                href="http://www.wty.center/en/presentation/dir/fourth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/presentation/dir/fourth/"
+                href="http://www.wty.center/zh/presentation/dir/fourth/"
                 />
   </url><url>
-    <loc>http://example.org/zh/presentation/</loc>
+    <loc>http://www.wty.center/zh/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/presentation/"
+                href="http://www.wty.center/en/presentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/presentation/"
+                href="http://www.wty.center/zh/presentation/"
                 />
   </url><url>
-    <loc>http://example.org/zh/presentation/third/</loc>
+    <loc>http://www.wty.center/zh/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/presentation/third/"
+                href="http://www.wty.center/en/presentation/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/presentation/third/"
+                href="http://www.wty.center/zh/presentation/third/"
                 />
   </url><url>
-    <loc>http://example.org/zh/presentation/second/</loc>
+    <loc>http://www.wty.center/zh/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/presentation/second/"
+                href="http://www.wty.center/en/presentation/second/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/presentation/second/"
+                href="http://www.wty.center/zh/presentation/second/"
                 />
   </url><url>
-    <loc>http://example.org/zh/presentation/first/</loc>
+    <loc>http://www.wty.center/zh/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/presentation/first/"
+                href="http://www.wty.center/en/presentation/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/presentation/first/"
+                href="http://www.wty.center/zh/presentation/first/"
                 />
   </url><url>
-    <loc>http://example.org/zh/archive/</loc>
+    <loc>http://www.wty.center/zh/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archive/"
+                href="http://www.wty.center/en/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/archive/"
+                href="http://www.wty.center/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/archive/"
+                href="http://www.wty.center/zh/archive/"
                 />
   </url><url>
-    <loc>http://example.org/zh/about/</loc>
+    <loc>http://www.wty.center/zh/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="http://www.wty.center/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/about/"
+                href="http://www.wty.center/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/about/"
+                href="http://www.wty.center/zh/about/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/article/article_any_folder_name_1/</loc>
+    <loc>http://www.wty.center/zh/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/article/article_any_folder_name_1/"
+                href="http://www.wty.center/en/publication/article/article_any_folder_name_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/article/article_any_folder_name_1/"
+                href="http://www.wty.center/zh/publication/article/article_any_folder_name_1/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/book/book_any_folder_name_1/</loc>
+    <loc>http://www.wty.center/zh/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/book/book_any_folder_name_1/"
+                href="http://www.wty.center/en/publication/book/book_any_folder_name_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/book/book_any_folder_name_1/"
+                href="http://www.wty.center/zh/publication/book/book_any_folder_name_1/"
                 />
   </url><url>
-    <loc>http://example.org/zh/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>http://www.wty.center/zh/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/publication/misc/misc_any_folder_name_1/"
+                href="http://www.wty.center/en/publication/misc/misc_any_folder_name_1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/publication/misc/misc_any_folder_name_1/"
+                href="http://www.wty.center/zh/publication/misc/misc_any_folder_name_1/"
                 />
   </url><url>
-    <loc>http://example.org/zh/tags/index/</loc>
+    <loc>http://www.wty.center/zh/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/index/"
+                href="http://www.wty.center/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/index/"
+                href="http://www.wty.center/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/index/"
+                href="http://www.wty.center/zh/tags/index/"
                 />
   </url>
 </urlset>

@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "wide" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -139,13 +139,13 @@ commento = false
 # more info please open https://valine.js.org
 [valine]
   enable = true
-  appId = '你的appId'
-  appKey = '你的appKey'
+  appId = 'o4S6WshI5befzq2riCKVqf6x-gzGzoHsz'
+  appKey = '7jzo4nxiOP1KkCvPXSop3qbL'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
   avatar = 'mm' 
   placeholder = '说点什么吧...'
-  visitor = false
+  visitor = true
 
 [changyan]
   changyanAppid = ""        # Changyan app id             # 畅言

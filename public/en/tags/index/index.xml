@@ -7,25 +7,25 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Hugo Zzo Theme</title>
-    <link>http://example.org/en/tags/index/</link>
+    <link>http://www.wty.center/en/tags/index/</link>
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>wty525582234@gmail.com (walter wu)</managingEditor>
+    <webMaster>wty525582234@gmail.com (walter wu)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.wty.center/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/en/posts/</link>
+        <link>http://www.wty.center/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>wty525582234@gmail.com (walter wu)</author>
         
-        <guid>http://example.org/en/posts/</guid>
+        <guid>http://www.wty.center/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
