@@ -16,26 +16,21 @@
 #  url = "presentation"
 #  weight = 3
 
-#[[main]]
-#  identifier = "gallery"
-#  name = "画廊"
-#  url = "gallery"
-#  weight = 4
-#
-#[[main]]
-#  parent = "gallery"
-#  name = "卡通"
-#  url = "gallery/cartoon"
-
-#[[main]]
-#  parent = "gallery"
-#  name = "图片"
-#  url = "gallery/photo"
 [[main]]
   identifier = "gallery"
+  name = "画廊"
+  url = "gallery"
+  weight = 4
+
+[[main]]
+  parent = "gallery"
+  name = "卡通"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "gallery"
   name = "图片"
   url = "gallery/photo"
-  weight = 4
 
 [[main]]
   identifier = "posts"
