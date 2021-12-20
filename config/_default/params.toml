@@ -61,7 +61,7 @@ typeIcon = "🎯"
 
 # 名片
 myname = "walter wu"
-email = "wty525582234@gmail.com"
+email = "wty525582234@163.com"
 whoami = "记录生活，分享生活！！"
 bioImageUrl = "/images/whoami/avatar.jpg"
 useGravatar = false
@@ -147,11 +147,11 @@ commento = false
   visitor = true
 
 [changyan]
-  changyanAppid = ""        # Changyan app id             # 畅言
-  changyanAppkey = ""       # Changyan app key
+  changyanAppid = "cyvOK8ijq"        # Changyan app id             # 畅言
+  changyanAppkey = "a086ebc87950753696c57130b93a97a6"       # Changyan app key
 
-[livere]
-  livereUID = "MTAyMC81NTAwMy8zMTQ3MQ=="            # LiveRe UID                  # 来必力
+#[livere]
+#  livereUID = "MTAyMC81NTAwMy8zMTQ3MQ=="            # LiveRe UID                  # 来必力
 
 # Isso: https://posativ.org/isso/
 [isso]
