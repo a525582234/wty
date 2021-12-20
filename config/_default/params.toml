@@ -136,15 +136,15 @@ commento = false
 # Valine.评论系统
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
-[valine]
-  enable = false
-  appId = 'o4S6WshI5befzq2riCKVqf6x-gzGzoHsz'
-  appKey = '7jzo4nxiOP1KkCvPXSop3qbL'
-  notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'monsterid'
-  placeholder = 'ヾﾉ≧∀≦)o来啊，快活啊!'
-  visitor = true
+#[valine]
+#  enable = false
+#  appId = 'o4S6WshI5befzq2riCKVqf6x-gzGzoHsz'
+#  appKey = '7jzo4nxiOP1KkCvPXSop3qbL'
+#  notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
+#  verify = false # Verification code
+#  avatar = 'monsterid'
+#  placeholder = 'ヾﾉ≧∀≦)o来啊，快活啊!'
+#  visitor = true
 
 [changyan]
   changyanAppid = "cyvOK8ijq"        # Changyan app id             # 畅言
