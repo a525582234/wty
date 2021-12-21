@@ -19,7 +19,7 @@ hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
-# appbar
+# appbar应用栏
 enableAppbarSearchIcon = false
 enableAppbarLangIcon = false
 
@@ -27,8 +27,8 @@ enableAppbarLangIcon = false
 homeHeaderType = "empty" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = true
 
-# menu
-showMobileMenuTerms = ["posts", "Galleries", "tags", "categories", "series"]
+# menu "Galleries"
+showMobileMenuTerms = ["posts", "tags", "categories", "series"]
 
 # search
 enableSearch = true
@@ -75,13 +75,13 @@ enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
-enableHomeSidebarTitles = true
-enableListSidebarTitles = true
+enableHomeSidebarTitles = false
+enableListSidebarTitles = false
 enableToc = true
 hideToc = true
 tocFolding = true
 tocPosition = "inner" # inner, outer
-enableTocSwitch = true
+enableTocSwitch = false
 itemsPerCategory = 5
 sidebarPosition = "left"
 tocLevels = ["h2", "h3", "h4"]

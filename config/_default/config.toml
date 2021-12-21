@@ -46,7 +46,7 @@ googleAnalytics = ""
     baseName = "index"
     isPlainText = true
     notAlternative = true
-
+#分类
 [taxonomies]
   category = "categories"
   tag = "tags"
