@@ -33,7 +33,7 @@ showMobileMenuTerms = ["posts", "tags", "categories", "series"]
 # search
 enableSearch = true
 enableSearchHighlight = true
-searchResultPosition = "side" # side, main
+searchResultPosition = "main" # side, main
 searchContent = true # include content to search index
 searchDistance = 100 # fuse option
 searchThreshold = 0.4 # 0.0: exact match, 1.0: any match
@@ -81,7 +81,7 @@ enableToc = true
 hideToc = true
 tocFolding = true
 tocPosition = "inner" # inner, outer
-enableTocSwitch = false
+enableTocSwitch = true
 itemsPerCategory = 5
 sidebarPosition = "left"
 tocLevels = ["h2", "h3", "h4"]
