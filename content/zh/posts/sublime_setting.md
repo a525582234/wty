@@ -12,7 +12,7 @@ tags:
  - 工具
 categories:
  - 杂文 ##series:-Themes Guide
-image: images/feature1/color-palette.png
+image: images/feature1/sublime.jpg
 ---
 
 # sublime设置"update_check": false,没有效果
