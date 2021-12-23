@@ -1,7 +1,7 @@
 ---
 title: sublime设置取消更新无效
 date: 2021-12-20T12:00:06+09:00
-description: 科学上网傻瓜式教程
+description: sublime小技巧
 draft: false
 hideToc: false
 enableToc: true ##侧边栏目录
