@@ -11,7 +11,7 @@ authorEmoji: 🤖
 tags:
  - 工具
 categories:
- - 杂文 ##series:-Themes Guide
+ - 工具文 ##series:-Themes Guide
 image: images/feature1/sublime.jpg
 ---
 

@@ -9,9 +9,9 @@ enableTocContent: false ##文章内部的目录
 author: wty                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 authorEmoji: 🤖
 tags:
- - 工具
+ - docker
 categories:
- - 杂文 ##series:-Themes Guide
+ - Linux ##series:-Themes Guide
 image: images/docker/img_6.png
 ---
 
