@@ -13,7 +13,7 @@ tags:
 - nodeJs
 categories:
 - 前端 ##series:-Themes Guide
-image: /images/feature1/flowchart.png
+image: /images/feature1/node.jpg
 ---
 
 下载地址：https://nodejs.org/en/

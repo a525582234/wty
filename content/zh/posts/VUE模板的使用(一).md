@@ -13,20 +13,20 @@ tags:
 - vue-admin-template
 categories:
 - 前端 ##series:-Themes Guide
-image: /images/feature1/flowchart.png
+image: /images/feature1/vue.jpg
 ---
 
 1. ### 拉取git项目
 
    git地址为
 
-   ```
+   ```shell
    https://github.com/PanJiaChen/vue-element-admin.git
    ```
 
 2. ### 安装依赖
    
-   ```
+   ```shell
    npm install
    ```
    
@@ -40,20 +40,16 @@ image: /images/feature1/flowchart.png
    
 4. ### 配置信息
 
-   ```
-   vue.config.js
-   ```
-
+   #### vue.config.js
+   
    这里面配置了项目的基本信息： 所使用的环境、端口号、对外路径、输入文件路径等信息 , 可以看到我们使用的dev开发环境，下面将查看开发环境的配置
 
    ![](/images/vue/vue_config.jpg)
 
-   ```
-   .env.development
-   ```
+   #### .env.development
 
    在这里会标注我们后台的路径， 此时因为使用的是mock数据， 所有只是提供了一下路径而已。以及标注当前文件的类型
-
+   
    ENV = ‘development’ 此时便引入了与后端数据交互， 与后端的交互接口都在 api的文件家里面。
 
    ![](/images/vue/后端路径配置.jpg)
@@ -135,7 +131,7 @@ image: /images/feature1/flowchart.png
 
    最后将 axios的实例导出 export default service， 在这里我们看到了 store.getters.token 以及文件最上面的导入
 
-   ```
+   ```vue
    import store from '@ /store'
    store.getters.token // 下一步查看  /store  这个文件夹
    ```
@@ -150,7 +146,7 @@ image: /images/feature1/flowchart.png
    Getter用于对Store中的数据进行加工处理形成新的数据
    它只会包装Store中保存的数据，并不会修改Store中保存的数据，当Store中的数据发生变化时，Getter生成的内容也会随之变化
 
-   ```
+   ```vue
    token: state => state.user.token,
    ```
 
@@ -158,7 +154,7 @@ image: /images/feature1/flowchart.png
 
    此文件主要是使用了 vuex , 而 vuex 是 vue中的全局的状态管理， 方便我们进行组件之间的数据传递。基本使用如下
 
-   ```
+   ```vue
    this.$store.state.count // 得到store中值
    
    // 调用Acton中的异步方法 user.js 中的login 方法  ， 这个是 /veew/login 文件中的代码 
@@ -170,7 +166,7 @@ image: /images/feature1/flowchart.png
 
    #### token 相关的
 
-   ```
+   ```vue
      RESET_STATE: (state) => {
        Object.assign(state, getDefaultState())
      },
@@ -183,7 +179,7 @@ image: /images/feature1/flowchart.png
 
    举例说明 login 方法， 首先 传入 {commit} 以及在方法中 commit(‘SET_TOKEN’, data.token) 这两个的作用是执行 action 中异步方法的简写， 组用就是设置 token 的值， 我们知道修改 store中的数据需要使用 Mutation 就是会调用上面的 SET_TOKEN 把 后端返回的token 保存到vuex中， 并且使用 setToken(data.token) 方法把 token写入到 cookie中 以便我们每次请求都可以带上这个 cookie , 并且能够解析出当前登录的用户 。
 
-   ```
+   ```vue
     // user login
      login({commit}, userInfo) {
        console.log('login')
@@ -207,7 +203,7 @@ image: /images/feature1/flowchart.png
 
    在这个文件中我们还可以观察到最上面存在组件的导入， 这就和之前的说明相匹配。
 
-   ```
+   ```vue
    import {login, logout, getInfo} from '@/api/user'
    import {getToken, setToken, removeToken} from '@/utils/auth'
    import {resetRouter} from '@/router'
@@ -218,7 +214,7 @@ image: /images/feature1/flowchart.png
 
    这个是项目的入口文件， 在这个入口文件中， 我们看到当前是使用mock数据， 并且全局挂在 element - ui 以及在vue的实例中挂载了 路由、store (vuex) ， 那下一步开始讲解路由
 
-   ```
+   ```vue
    if (process.env.NODE_ENV === 'production') {
      const { mockXHR } = require('../mock')
      mockXHR()
@@ -250,7 +246,7 @@ image: /images/feature1/flowchart.png
    name : 路由名字
    children ： 该路由下的子路由， 效果就是二级菜单
 
-   ```
+   ```vue
    export const constantRoutes = [
      {
        path: '/login',
@@ -271,7 +267,7 @@ image: /images/feature1/flowchart.png
 
    下面就是新建路由实例， 以及添加路由表， 导出路由。 上面介绍到了组件， 下一步解释路由对应的组件
 
-   ```
+   ```vue
    const createRouter = () => new Router({
      // mode: 'history', // require service support
      scrollBehavior: () => ({y: 0}),
@@ -293,7 +289,7 @@ image: /images/feature1/flowchart.png
 
    组件的概念比较广泛，可以暂时理解为一个界面， 下面是登录的界面， name: ‘Login’, 定义的组件名称。 当在路由表中配置了此路由的信息后，就可以在使用中根据对应的path 来访问此路由。
 
-   ```
+   ```vue
    <template>
      <div class="login-container">
      </div>
@@ -330,7 +326,7 @@ image: /images/feature1/flowchart.png
 
    4、不是 /login 就去 store 里面找 当前用户的信息， 然后在放行
 
-   ```
+   ```vue
    const whiteList = ['/login'] // no redirect whitelist
    
    router.beforeEach(async(to, from, next) => {
