@@ -25,6 +25,13 @@ docker info
 ##查看docker容器帮助
 docker --help
 ```
+## docker安装启动
+安装比较简单，这种安装的Docker不是最新版本，不过对于学习够用了，依次执行下面命令进行安装。
+```
+$ sudo apt install docker.io
+$ sudo systemctl start docker
+$ sudo systemctl enable docker
+```
 
 ## 镜像操作
 
