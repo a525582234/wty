@@ -8,10 +8,10 @@
             <atom:link href="http://www.wty.center/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Index</title>
-    <link>http://www.wty.center/my-first-post/</link>
+    <link>http://www.wty.center/test/</link>
     <pubDate>Mon, 12 Oct 2020 13:38:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://www.wty.center/my-first-post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>http://www.wty.center/test/</guid>
+    <description><![CDATA[13223]]></description>
 </item></channel>
 </rss>

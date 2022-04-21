@@ -21,20 +21,6 @@ enableGitInfo = false
 enableEmoji = true
 
 [languages]
-#[languages.en]
-#weight = 1
-## language code
-#languageCode = "en"
-## language name
-#languageName = "English"
-## whether to include Chinese/Japanese/Korean
-#hasCJKLanguage = false
-## default amount of posts in each pages
-#paginate = 12
-## [UA-XXXXXXXX-X] google analytics code
-#googleAnalytics = ""
-## copyright description used only for seo schema
-#copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 # Menu config
 [languages.en]
 weight = 2
@@ -86,14 +72,6 @@ name = "about"
 url = "/about/"
 title = ""
 weight = 4
-#[[languages.en.menu.main]]
-#identifier = "github"
-#pre = "<i class='fab fa-github fa-fw'></i>"
-#post = ""
-#name = ""
-#url = "https://github.com/jouzeyu"
-#title = "GitHub"
-#weight = 5
 [languages.en.params]
 # 网站描述
 description = "盛年不重来，一日难再晨"
@@ -102,7 +80,7 @@ keywords = ["blog", "Walter"]
 # 应用图标配置
 [languages.en.params.app]
 # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-title = "Walter"
+title = "Walter's Blog"
 # 是否隐藏网站图标资源链接
 noFavicon = false
 # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -131,9 +109,9 @@ highlightTag = "em"
 # 是否在搜索索引中使用基于 baseURL 的绝对路径
 absoluteURL = false
 [languages.en.params.search.algolia]
-index = "index.en"
-appID = ""
-searchKey = ""
+index = "myblog"
+appID = "4L9Y1UZA5F"
+searchKey = "6bd22b41fcacea604fdc0ba4de404a8e"
 # 主页信息设置
 [languages.en.params.home]
 # RSS 文章数目
@@ -371,77 +349,12 @@ Mix = false
 # 评论系统设置
 [params.page.comment]
 enable = true
-# Disqus comment config (https://disqus.com/)
-# Disqus 评论系统设置 (https://disqus.com/)
-[params.page.comment.disqus]
-enable = false
-# Disqus shortname to use Disqus in posts
-# Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-shortname = ""
-# Gitalk comment config (https://github.com/gitalk/gitalk)
-# Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
-[params.page.comment.gitalk]
-enable = false
-owner = ""
-repo = ""
-clientId = ""
-clientSecret = ""
-# Valine comment config (https://github.com/xCss/Valine)
-# Valine 评论系统设置 (https://github.com/xCss/Valine)
-[params.page.comment.valine]
-enable = true
-appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
-placeholder = ""
-avatar = "mp"
-meta = ""
-pageSize = 10
-lang = ""
-visitor = true
-recordIP = true
-highlight = true
-enableQQ = false
-serverURLs = "https://leancloud.hugoloveit.com"
-# emoji data file name, default is "google.yml"
-# ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
-# located in "themes/LoveIt/assets/data/emoji/" directory
-# you can store your own data files in the same path under your project:
-# "assets/data/emoji/"
-# emoji 数据文件名称, 默认是 "google.yml"
-# ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
-# 位于 "themes/LoveIt/assets/data/emoji/" 目录
-# 可以在你的项目下相同路径存放你自己的数据文件:
-# "assets/data/emoji/"
-emoji = ""
-# Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
-# Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
-[params.page.comment.facebook]
-enable = false
-width = "100%"
-numPosts = 10
-appId = ""
-languageCode = ""
-# Telegram comments config (https://comments.app/)
-# Telegram comments 评论系统设置 (https://comments.app/)
-[params.page.comment.telegram]
-enable = false
-siteID = ""
-limit = 5
-height = ""
-color = ""
-colorful = true
-dislikes = false
-outlined = false
-# Commento comment config (https://commento.io/)
-# Commento comment 评论系统设置 (https://commento.io/)
-[params.page.comment.commento]
-enable = false
 # Utterances comment config (https://utteranc.es/)
 # Utterances comment 评论系统设置 (https://utteranc.es/)
 [params.page.comment.utterances]
-enable = false
+enable = true
 # owner/repo
-repo = ""
+repo = "a525582234/hugo-comment"
 issueTerm = "pathname"
 label = ""
 lightTheme = "github-light"
@@ -512,7 +425,7 @@ baidu = ""
 enable = true
 # Google Analytics
 [params.analytics.google]
-id = ""
+id = "G-YBJSTW64QR"
 # whether to anonymize IP
 # 是否匿名化用户 IP
 anonymizeIP = true
